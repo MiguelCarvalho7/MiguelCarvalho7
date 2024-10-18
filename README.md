@@ -1,4 +1,4 @@
-### Ola Bem vindo ao meu perfil 
+### Ola, Bem vindo ao meu perfil 
 - Estou estudando na [Alura](https://cursos.alura.com.br/dashboard)
 - Estou me desenvolvendo na Liguagem JavaScript
 - Estou utilizando esse espaço para minha organisação e compartilhar futuramente meus projetos
